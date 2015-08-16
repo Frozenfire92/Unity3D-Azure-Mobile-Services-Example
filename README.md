@@ -15,6 +15,10 @@ This is a fork of a fork of [bitrave's Unity3D Azure plugin](https://github.com/
 - Android 5.1
 - OSX 10.10
 
+## Build has failed for
+- Web Player
+- WebGL (built fine, didn't work)
+
 ## Tutorial
 See [tutorial.md](tutorial.md) for a step by step walkthrough
 
