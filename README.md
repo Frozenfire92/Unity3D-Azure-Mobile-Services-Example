@@ -13,6 +13,7 @@ This is a fork of a fork of [bitrave's Unity3D Azure plugin](https://github.com/
 ## This has been tested and built for
 - Windows 10
 - Android 5.1
+- OSX 10.10
 
 ## Tutorial
 See [tutorial.md](tutorial.md) for a step by step walkthrough
